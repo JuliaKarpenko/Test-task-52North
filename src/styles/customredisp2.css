@@ -115,6 +115,7 @@ img.circle {
 	text-align: center;
 	width: 75%;
 	padding-bottom: 10px;
+	min-height: 92px;
 }
 .choices {
 	margin-top: 15px;

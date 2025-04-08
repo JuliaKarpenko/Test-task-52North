@@ -1,0 +1,49 @@
+body {
+	padding: 0px;
+	height: 100vh;
+}
+.cartimage_white {
+	display: none;
+}
+.cartimage_black {
+	display: none;
+}
+#giftgahog {
+	display: none;
+}
+
+#message-page img {
+	float: right;
+	max-width: 200px;
+}
+#message-page .message {
+	float: left;
+	padding-left: 20px;
+}
+
+#hlogoimg {
+	line-height: 48px;
+	font-size: 50px;
+	color: #677de8;
+	font-weight: bold;
+}
+#hlogoimg1,
+#hlogoimg2 {
+	line-height: 30px;
+	font-size: 35px;
+	color: #677de8;
+	font-weight: bold;
+}
+#hlogoimg img {
+	vertical-align: middle;
+}
+#hlogoimg1 img,
+#hlogoimg2 img {
+	vertical-align: middle;
+}
+.cartimage_white {
+	display: inline;
+}
+header img {
+	width: auto;
+}
